@@ -1,10 +1,7 @@
 # DataPipeLineProject
 
 ## Youtube Channel Recommender
-- Aashna Kanuga (adk2159)
-- Akshata Patel (amp2313)
-- Kiran Saini (ks3630)
-- Neha Saraf (ns3308)
+
 
 #### The product recommends Youtube channels to the user based on user inputs: 
 - Product Category
